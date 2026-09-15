@@ -10,6 +10,17 @@ A major component of the project is an interactive visualization layer. Users ca
 
 The project is designed to bridge astronomical data, theoretical physics, backend engineering, databases, and scientific visualization in a single application.
 
+## Reference Imagery
+
+Real observational and illustrative imagery from published research and space agencies, showing the kinds of objects the Atlas catalogs.
+
+| | | |
+|---|---|---|
+| ![M87* — first image of a black hole, EHT Collaboration](https://cdn.eso.org/images/screen/eso1907a.jpg) | ![Sagittarius A* — EHT Collaboration](https://cdn.eso.org/images/screen/eso2208-eht-mwa.jpg) | ![Cygnus X-1 illustration — NASA/CXC/M. Weiss](https://assets.science.nasa.gov/content/dam/science/missions/webb/outreach/migrated/2017/STScI-01EVT0DDGYZ1GTYH6B20175QN8.png) |
+| **M87\*** — the first-ever direct image of a black hole's shadow, released April 2019.<br>*Credit: Event Horizon Telescope Collaboration* | **Sagittarius A\*** — the supermassive black hole at the center of the Milky Way, released May 2022.<br>*Credit: Event Horizon Telescope Collaboration* | **Cygnus X-1** — artist's illustration of the first stellar-mass black hole ever identified, pulling material from its blue supergiant companion.<br>*Credit: NASA, CXC, M. Weiss* |
+
+These images are sourced from the Event Horizon Telescope Collaboration (via ESO) and NASA's Chandra X-ray Center, and are used here for reference and attribution purposes. Full details and usage terms are available on the [EHT](https://eventhorizontelescope.org/) and [NASA Science](https://science.nasa.gov/) sites.
+
 ## Core Objectives
 
 - Build a structured database of known black holes and their observational properties.
