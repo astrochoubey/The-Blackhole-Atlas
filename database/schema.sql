@@ -1,0 +1,3 @@
+-- Future responsibility:
+-- Define the SQLite schema for storing Instagram relationship snapshots,
+-- historical tracking, user metrics, and data validation logs.

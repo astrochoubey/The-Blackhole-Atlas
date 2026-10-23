@@ -1,0 +1,3 @@
+-- Future responsibility:
+-- Provide seed data / fixture records for local development and testing
+-- of historical analytics and relationship comparison algorithms.
